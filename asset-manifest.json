@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gravity-simulator/static/css/main.34592d44.css",
+    "main.js": "/gravity-simulator/static/js/main.832121f3.js",
+    "static/js/787.38a7a6a1.chunk.js": "/gravity-simulator/static/js/787.38a7a6a1.chunk.js",
+    "static/media/sim-logo5.png": "/gravity-simulator/static/media/sim-logo5.5685eb42f7d41ac21326.png",
+    "static/media/Vector_subtraction.png": "/gravity-simulator/static/media/Vector_subtraction.20d69ebed328640e8541.png",
+    "static/media/github_logo.png": "/gravity-simulator/static/media/github_logo.aabf6c82d3d6513ca051.png",
+    "index.html": "/gravity-simulator/index.html",
+    "main.34592d44.css.map": "/gravity-simulator/static/css/main.34592d44.css.map",
+    "main.832121f3.js.map": "/gravity-simulator/static/js/main.832121f3.js.map",
+    "787.38a7a6a1.chunk.js.map": "/gravity-simulator/static/js/787.38a7a6a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34592d44.css",
+    "static/js/main.832121f3.js"
+  ]
+}
