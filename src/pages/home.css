@@ -1,0 +1,48 @@
+h1 {
+    color: #22223B;
+    padding-bottom: 10px;
+    padding-top: 50px;
+    padding-left: 5px;
+    text-align: left;
+}
+
+h4 {
+    color: #22223B;
+    padding-bottom: 200px;
+    padding-top: 5px;
+    padding-left: 5px;
+    color: grey;
+    text-align: left;
+}
+
+h3 {
+    color: #22223B;
+    padding: 5px;
+    padding-bottom: 5px;
+    padding-top: 5;
+    text-align: left;
+}
+
+body {
+    color: #22223B;
+    padding: 5px;
+    padding-bottom: 30px;
+    padding-top: 5;
+    text-align: left;
+}
+
+
+.inputs {
+    width : 60%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.home {
+    padding: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}

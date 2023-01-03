@@ -1,0 +1,33 @@
+.body {
+    text-align: left;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 300px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+.steps {
+    padding-left: 50px;
+}
+
+
+
+.banner {
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.vectorDiagram {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 8px;
+}
+
+.vectorExample {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-size: 12px; 
+}
