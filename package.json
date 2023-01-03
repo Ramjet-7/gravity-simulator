@@ -2,7 +2,7 @@
   "name": "n-body-sim",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ramjet-7.github.io/particle-simulator",
+  "homepage": "https://Ramjet-7.github.io/gravity-simulator",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
